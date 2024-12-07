@@ -51,7 +51,7 @@ const Story = () => {
 				</p>
 				<div className='realrive size-full'>
 					<AnimatedTitle
-						title='the st<b>ob</b>ry <b>o</b>f <br /> a hidden realm'
+						title='the st<b>o</b>ry <b>o</b>f <br /> a hidden realm'
 						containerClass='mt-5 pointer-events-none mix-blend-difference relative z-10 '
 					/>
 					<div className='story-img-container'>
